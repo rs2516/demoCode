@@ -8,6 +8,8 @@ public class ApiTest {
 	public void setPath()
 	{
 		System.out.println("setPath");
+		System.out.println("updated code for git");
+		System.out.println("updated code for git 1");
 	}
 	
 	@Test
